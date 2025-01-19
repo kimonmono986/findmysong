@@ -4,7 +4,7 @@
 
 Enter song lyrics into Find My Song, and if it can find it, it'll give you the title of the song and the artist's name by using LLM's and LangChain.
 
-<img src="./images/findmysongpic.png" alt="screenshot of project user interface" width="370" height="500">
+<img src="./images/findmysongpic.png" alt="screenshot of project user interface" width="410" height="500">
 
 ## Technologies
 
