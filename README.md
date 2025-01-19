@@ -1,4 +1,4 @@
-# Find My Song
+# Find My Song 🎹 
 
 ## Made with LangChain!
 
